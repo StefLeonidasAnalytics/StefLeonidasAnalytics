@@ -1,6 +1,6 @@
 ### print("Hello! Χαίρετε! Moin! Hola!") 👋  
 
-### Brief introduction about myself 👦
+### Who am I, why do I like working with data? 👦
     
 I'm Stefanos, an economics student who developed a major interest in statistics and econometrics throught his time at University. 
 
