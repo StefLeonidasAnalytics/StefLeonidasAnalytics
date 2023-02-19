@@ -1,4 +1,4 @@
-### print("Hello! Χαίρετε! Moin! Hola!") 👋  
+## print("Hello! Χαίρετε! Moin! Hola!") 👋  
 
 ### Who am I and why do I like working with data? 👦
     
@@ -8,7 +8,7 @@ For me, where physics and mathematics help us understand the matter and universe
 
 Society is one great puzzle and data gives us a sneak peek into the behavioural habits of individuals which can be understood by analysing data.
 
-## Feel free to check out my [projects](https://github.com/StefLeonidasAnalytics?tab=repositories), more are on the way! 
+Feel free to check out my [projects](https://github.com/StefLeonidasAnalytics?tab=repositories). More are on the way! 
 <!--
 **StefLeonidasAnalytics/StefLeonidasAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
