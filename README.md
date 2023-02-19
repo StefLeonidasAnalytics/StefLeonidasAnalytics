@@ -2,7 +2,7 @@
 
 ### Who am I and why do I like working with data? 👦
     
-I'm Stefanos, an economics student who developed a major interest in statistics and econometrics throught his time at University. 
+I'm Stefanos, I study economics and developed a major interest in statistics and econometrics throught my time at University. 
 
 For me, where physics and mathematics help us understand the matter and universe surrounding us, statistics and data (also) give us an insight into our society and fellow human beings. 🤔
 
